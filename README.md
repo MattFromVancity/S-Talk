@@ -1,2 +1,2 @@
-# S-Talk
+# Term-Talk
 UDP Bidirectional Chat App
