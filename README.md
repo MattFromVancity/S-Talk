@@ -1,2 +1,1 @@
-# Term-Talk
-UDP Bidirectional Chat App
+# Term Talk ###-UDP bidirectional terminal chat app
